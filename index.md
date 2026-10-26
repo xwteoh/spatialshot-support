@@ -14,9 +14,9 @@ Capture spatial photos and videos on iPhone, and relive them in 3D on Apple Visi
 
 ## Viewing in 3D
 
-Your captures are saved to Photos. To see them in 3D:
+Your captures are saved to Photos. Tap the thumbnail beside the shutter to review your recent captures in the app. To see them in 3D:
 
-- **On Apple Vision Pro:** turn on iCloud Photos on your iPhone and Vision Pro, then open Photos on Vision Pro. You can also AirDrop a capture to Vision Pro.
+- **On Apple Vision Pro:** in Spatial Shot's viewer, tap Share and AirDrop the capture to your Vision Pro. Or turn on iCloud Photos on your iPhone and Vision Pro, then open Photos on Vision Pro.
 - **On iPhone:** captures appear as regular photos and videos; the depth is kept and shows on Vision Pro.
 
 ## Common questions
