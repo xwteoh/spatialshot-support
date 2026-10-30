@@ -35,6 +35,6 @@ Open **Pro** and tap **Show Tips Again**.
 
 ## Contact
 
-Email **[SUPPORT EMAIL]** — please include your iPhone model and iOS version.
+Email **[spatial.shot.support@gmail.com](mailto:spatial.shot.support@gmail.com)** — please include your iPhone model and iOS version.
 
 [Privacy Policy](privacy.html)

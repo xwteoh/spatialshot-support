@@ -37,4 +37,4 @@ If this policy changes, the new version will be posted on this page with a new e
 
 ## Contact
 
-Questions? Email **[SUPPORT EMAIL]**.
+Questions? Email **[spatial.shot.support@gmail.com](mailto:spatial.shot.support@gmail.com)**.
